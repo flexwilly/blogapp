@@ -1,0 +1,5 @@
+#main-article {
+    height: 250px;
+    overflow-y: auto;
+    width: 100%;
+}
